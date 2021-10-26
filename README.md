@@ -4,7 +4,7 @@
 
 ![magnokf's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnokf&show_icons=true&theme=github_dark)
 
-[![Meu Perfil RocketSeat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/magno-kelly-felipe-03653)
+[![Meu Perfil RocketSeat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/magno-kelly-felipe-03653) ![GitHub followers](https://img.shields.io/github/followers/magnokf?logo=GitHub&logoColor=green&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/magnokf?style=social)
 
 <!--
 **magnokf/magnokf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
