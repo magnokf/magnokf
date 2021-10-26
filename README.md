@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I´m Magno Kelly 👋
+- 🌱 I'm currently studying Software Engineering and developing small daily solutions using PHP Framework - Laravel;
+- 🌱 I’m currently learning some Javascript and using Vue.Js Framework.
+
+![magnokf's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnokf&show_icons=true&theme=github_dark)
+
+[![Meu Perfil RocketSeat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/magno-kelly-felipe-03653)
 
 <!--
 **magnokf/magnokf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
