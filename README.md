@@ -1,9 +1,7 @@
-### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering College student
-and developing small daily solutions using PHP Framework - Laravel with
-Javascript (Vue.Js and React.Js) - :school_satchel: I'm a student of the
-[University of Sumar](https://www.unicesumar.edu.br/) - :prograssbar: I´m a
-Back-end developer [Laravel Framework](https://laravel.com/) - :rocket: I'm a
-Front-End Developer and I'm working with React.Js and Vue.Js
+### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering College student and developing small daily solutions using PHP Framework - Laravel with Javascript (Vue.Js and React.Js) 
+- :school_satchel: I'm a student of the [UniCesumar](https://www.unicesumar.edu.br/) 
+- :prograssbar: I´m a Back-end developer [Laravel Framework](https://laravel.com/) 
+- :rocket: I'm a Front-End Developer and I'm working with React.Js and Vue.Js
 
 ![magnokf's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnokf&show_icons=true&theme=github_dark)
 
