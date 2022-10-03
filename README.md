@@ -7,6 +7,8 @@
 
 [![Meu Perfil RocketSeat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/magno-kelly-felipe-03653) ![GitHub followers](https://img.shields.io/github/followers/magnokf?logo=GitHub&logoColor=green&style=social) [![Twitter Follow](https://img.shields.io/twitter/follow/magnokf?style=social)](https://twitter.com/magnokf)
 
+- 📫 How to reach me: mkfelipe.rj@gmail.com
+
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -22,7 +24,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
 <a href="https://fauna.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fauna/fauna-icon.svg" alt="faunaDB" width="40" height="40"/> </a> 
  
 </p>
