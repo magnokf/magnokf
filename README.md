@@ -22,7 +22,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head-thumbnail.png" alt="postgres" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo.png" alt="postgres" width="40" height="40"/> </a> 
  
 </p>
 
