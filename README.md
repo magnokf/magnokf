@@ -1,4 +1,4 @@
-### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering College student and developing small daily solutions using PHP Framework - Laravel with Javascript (Vue.Js and React.Js) 
+### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering College and developing small daily solutions using PHP Framework - Laravel with Javascript (Vue.Js, React.Js & ReactNative) 
  
 - ✨ Back-End Developer [Laravel Framework](https://laravel.com/) 
 - :rocket: Front-End Developer and I'm working with React.Js and Vue.Js
