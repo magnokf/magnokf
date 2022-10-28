@@ -1,7 +1,7 @@
 ### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering College. {PHP webDeveloper} - Laravel with Javascript (Vue.Js, React.Js & ReactNative) 
  
 - ✨ Back-End Developer [Laravel Framework](https://laravel.com/) 
-- :rocket: Front-End Developer and I'm working with React.Js and Vue.Js
+- :rocket: Front-End Developer and I'm working with React.Js, ReactNative and Vue.Js
 
 ![magnokf's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnokf&show_icons=true&theme=github_dark)
 
